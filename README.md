@@ -10,10 +10,9 @@ This task is a part of [RSSchool Node.js Course](https://rs.school/courses/nodej
 
 1. Install [Node.js](https://nodejs.org/en/download/)
 2. Clone this repository
-3. Switch to `dev` branch
-4. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)
-5. Run **test scripts** in command line.
-6. You will see the number of skipped, passing and failing tests.
+3. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)
+4. Run **test scripts** in command line.
+5. You will see the number of skipped, passing and failing tests.
 
 ---
 
